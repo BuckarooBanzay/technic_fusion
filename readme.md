@@ -1,6 +1,7 @@
 
 **State**: Draft
 
+* [ ] Uranium to Lead decay abm
 * [ ] Lithium ore
 * [ ] Lithium block
 * [ ] Tritium (from irradiating lithium)
